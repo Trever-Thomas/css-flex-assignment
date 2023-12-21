@@ -146,6 +146,32 @@ background-color: white;
 }
 
 .bikini-bottom {
+    display: flex; 
+    margin: 100px 170px;
+    background-color: #3882f6;
+    border-radius: 15px;
+    padding: 40px 170px;
+    justify-content: space-between;
+}
 
+.together {
+    color: #e5e7eb;
+    margin-right: 100px;
+}
 
+.spongebob {
+    font-size: 26px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.squarepants {
+    font-size: 16px;
+    margin: 0;
+}
+
+#bottomsignup {
+    border: white solid 2px;
+    margin: auto;
+    justify-content: space-between;
 }
