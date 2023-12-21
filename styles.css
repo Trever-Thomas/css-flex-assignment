@@ -9,6 +9,7 @@ body {
 
 .grayback {
    background-color: #e5e7eb;
+   padding: 100px;
 }
 
 .header,
@@ -90,4 +91,61 @@ align-items: center;
     padding: 10px 15px;
     margin: 20px 0 0 0;
     border: none;
+}
+
+.middle-section {
+    margin: 100px auto;
+}
+
+.info-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.ill-container {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    list-style: none;
+    
+}
+
+.pic {
+    width: 200px;
+    color: darkslategray;   
+    font-size: 20px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 350;
+}
+
+.author {
+    text-align: right;
+    color: #1F2937;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.bottomhalf {
+    background-color: #1F2937;
+    padding: auto;
+}
+
+.whiteback {
+background-color: white;
+}
+
+.bikini-bottom {
+
+
 }
