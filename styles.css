@@ -175,3 +175,11 @@ background-color: white;
     margin: auto;
     justify-content: space-between;
 }
+
+.footer {
+    color: #e5e7eb;
+    padding: 30px;
+    text-align: center;
+    font-size: 16px;
+
+}
